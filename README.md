@@ -1,1 +1,1 @@
-# Vaccine_Booking_System-UI-UX
+# Vaccine_Booking_System-UIUX
